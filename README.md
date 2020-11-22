@@ -8,9 +8,9 @@ A simple React component that resizes the textarea elements, based on the amount
 
 ## How to Install
 ```
-npm install react-auto-textarea
+npm install @nicefont/react-auto-textarea
 
-yarn add react-auto-textarea
+yarn add @nicefont/react-auto-textarea
 ```
 ## How to use
 This Component works just like the default textarea.
