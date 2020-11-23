@@ -15,7 +15,7 @@ yarn add @nicefont/react-auto-textarea
 ## How to use
 This Component works just like the default textarea.
 ```JSX
-import AutoTextarea from 'react-auto-textarea'
+import AutoTextarea from '@nicefont/react-auto-textarea'
 
 const MyComponent = () => {
 
